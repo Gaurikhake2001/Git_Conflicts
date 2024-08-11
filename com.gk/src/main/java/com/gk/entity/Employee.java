@@ -26,4 +26,6 @@ public class Employee {
     private long phoneNo;
     @NotNull
     private int age;
+
+    private String sur_name;
 }
