@@ -15,6 +15,7 @@ public class SpringCrudApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCrudApplication.class, args);
 		System.out.println("Application started");
+		System.out.println("hi am huda mla place kra ");
 	}
 
 }
