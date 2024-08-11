@@ -24,4 +24,6 @@ public class Employee {
 
     @NotNull
     private long phoneNo;
+
+    private double Salary;
 }
