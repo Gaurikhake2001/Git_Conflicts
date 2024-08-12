@@ -28,4 +28,7 @@ public class Employee {
     private double  Salary;
 
     private long deptNo;
+    private long mobNo;
+    private String compName;
+
 }
