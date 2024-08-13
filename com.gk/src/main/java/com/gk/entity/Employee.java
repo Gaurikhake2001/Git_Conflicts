@@ -25,10 +25,17 @@ public class Employee {
     @NotNull
     private long phoneNo;
 
+    @NotNull
+    private String address;
+
+    private int age;
+
+    private String sur_name;
+
+
     private double  Salary;
 
     private long deptNo;
     private long mobNo;
     private String compName;
-
 }
