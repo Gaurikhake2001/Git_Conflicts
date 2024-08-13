@@ -26,4 +26,9 @@ public class Employee {
     private long phoneNo;
     @NotNull
     private String address;
+
+    private int age;
+
+    private String sur_name;
+
 }
