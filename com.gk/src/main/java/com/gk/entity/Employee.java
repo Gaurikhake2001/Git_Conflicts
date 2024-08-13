@@ -24,6 +24,7 @@ public class Employee {
 
     @NotNull
     private long phoneNo;
+
     @NotNull
     private String address;
 
@@ -31,4 +32,10 @@ public class Employee {
 
     private String sur_name;
 
+
+    private double  Salary;
+
+    private long deptNo;
+    private long mobNo;
+    private String compName;
 }
